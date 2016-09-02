@@ -1,0 +1,12 @@
+platform :ios, '7.0'
+target 'JSPatchDemo' do
+pod 'AFNetworking'
+pod 'MBProgressHUD'
+pod 'Reachability'
+pod 'Masonry'
+pod 'MJExtension', '~> 3.0.10'
+pod 'MJRefresh', '~> 2.4.7'
+pod 'FMDB', '~> 2.6.2'
+pod 'Bugly'
+pod 'YYWebImage'
+end
